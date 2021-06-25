@@ -1,2 +1,2 @@
 # image-painting-project
-Sound Visualization as Brush-painting
+Sound Visualization as Brush-painting by **Processing(java)**
