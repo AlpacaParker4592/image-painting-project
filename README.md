@@ -3,7 +3,7 @@ Sound Visualization as Brush-painting by **Processing(java)**
 
 # Implemented Functions
 ## 1. Without Operation
-### 1-1. Brush(Reacts by the change of the main(loudest) frequency of the music)
+### 1-1. Brush(Reacts by the change of the main(loudest) frequency of music)
 <div align=center>
 <img src="https://user-images.githubusercontent.com/63055303/141376399-e15bb7ef-77ad-4606-8edb-c962b3adfefc.gif" alt="Brush1" width="500">
 </div>
